@@ -1,0 +1,3 @@
+f=open("file_pro.txt","r")
+print(f.read())
+f.close()
